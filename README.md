@@ -1,2 +1,2 @@
-# ReactForms
+# EventHandlingReact
 Created with CodeSandbox
